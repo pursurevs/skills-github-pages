@@ -1,5 +1,5 @@
 ---
-title: "New-page"
+title: "Verilog_study"
 date: 2026-03-12
 ---
 In this page a adder will be add by verilog language.
